@@ -5,10 +5,10 @@ This interactive Power BI project analyzes sales performance, customer behavior,
 
 ---
 ## **Key insights and Features:**
-**Power Query:** Data cleaning, Handling missing values, Transforming raw data, and optimizing performance.
-**Dynamic Dashboard:** Interactive slicers for filtering by period, category, region, ship mode, and segment.
-**Advanced DAX Measures:** Calculations for Total revenue, Total profit, Total orders, Profit target, Revenue target, and KPIs.
-**KPI Metrics and Trends:** Visuals for Total revenue, Total profit, Total orders and Map.
+- **Power Query:** Data cleaning, Handling missing values, Transforming raw data, and optimizing performance.
+- **Dynamic Dashboard:** Interactive slicers for filtering by period, category, region, ship mode, and segment.
+- **Advanced DAX Measures:** Calculations for Total revenue, Total profit, Total orders, Profit target, Revenue target, and KPIs.
+- **KPI Metrics and Trends:** Visuals for Total revenue, Total profit, Total orders and Map.
 
 --- 
 ## **Entity Relationship Diagram(ERD):**
